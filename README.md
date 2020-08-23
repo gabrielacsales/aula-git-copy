@@ -1,6 +1,6 @@
 # GIT E GITHUB
 
-Aprendendo através do guia prático
+Aprendendo através do guia prático, conteúdo obtido pelo youtube, no canal da Rocketseat, pelo instrutor Mayk Britto
 
 # SCENES
 
@@ -10,13 +10,13 @@ Aprendendo através do guia prático
 # PARALELS UNIVERSES (branchs)
 - [X] Iniciar nova funcionalidade (feature) sem perder o que foi feito
 - [X] adicionar novas funcionalidades ao projeto
-- [X] apagar a branch depois de já estar unida na master
+- [X] apagar a branch depois de já ter se unido à master
 
 - [X] colocar o projeto na nuvem
 
 #### MINHAS NOTAS:
 
-`quando usa` ainda será editado
+A coluna `quando usa` ainda será editada, estava testando a criação de tabela!
 
 Comando | o que faz | Quando usa
 :---: | :---: | :---:
