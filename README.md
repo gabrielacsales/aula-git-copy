@@ -1,5 +1,5 @@
-# GIT E GITHUB
----
+### GIT E GITHUB
+***
 Aprendendo através do guia prático
 
 # SCENES
@@ -7,14 +7,14 @@ Aprendendo através do guia prático
 - [X] Criação de pontos na história
 - [X] Verificação de mudanças feitas
 
-# PARALELS UNIVERSES
+# PARALELS UNIVERSES (branchs)
 - [X] Iniciar nova funcionalidade (feature) sem perder o que foi feito
 - [X] adicionar novas funcionalidades ao projeto
-- [ ] apagar a branch depois de já estar unida na master
+- [X] apagar a branch depois de já estar unida na master
 
 - [X] colocar o projeto na nuvem
 
-MINHAS NOTAS:
+# MINHAS NOTAS:
 
 Comando | o que faz | Quando usa
 :---: | :---: | :---:
