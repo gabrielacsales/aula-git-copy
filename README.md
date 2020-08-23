@@ -17,7 +17,7 @@ Aprendendo através do guia prático
 MINHAS NOTAS:
 
 Comando | o que faz | Quando usa
-*---* | *---* | *---*
+:---: | :---: | :---:
 git init | para iniciar a linha do tempo | 1
 git add | adiciona o arquivo à branch (?) | 2
 git add . | adiciona todas as mudanças | 3
