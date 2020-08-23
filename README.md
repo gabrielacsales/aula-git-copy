@@ -13,8 +13,11 @@ Aprendendo através do guia prático
 - [X] apagar a branch depois de já ter se unido à master
 
 - [X] colocar o projeto na nuvem
-- [ ] pegar projeto já iniciado para trabalhar com o time
-- [ ] precisa resolver um conflito
+
+- [X] pegar projeto já iniciado para trabalhar com o time
+- [X] precisa resolver um conflito
+
+- [X] Antes de enviar a resolução, precisa usar o mesmo repositório local
 
 ### MY NOTES:
 
