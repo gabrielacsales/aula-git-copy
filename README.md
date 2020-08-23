@@ -1,6 +1,6 @@
 # GIT E GITHUB
 
-Aprendendo através do guia prático, conteúdo obtido pelo youtube, no canal da Rocketseat, pelo instrutor Mayk Britto
+Aprendendo através do guia prático
 
 # SCENES
 
@@ -14,9 +14,9 @@ Aprendendo através do guia prático, conteúdo obtido pelo youtube, no canal da
 
 - [X] colocar o projeto na nuvem
 
-#### MINHAS NOTAS:
+### MY NOTES:
 
-A coluna `quando usa` ainda será editada, estava testando a criação de tabela!
+A coluna ` Quando usa ` ainda será editada 
 
 Comando | o que faz | Quando usa
 :---: | :---: | :---:
