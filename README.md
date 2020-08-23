@@ -24,7 +24,7 @@ Aprendendo através do guia prático
 A coluna ` Quando usa ` ainda será editada 
 
 Comando | o que faz | Quando usa | Complemento
-:---: | :---: | :---:
+:---: | :---: | :---: | :---:
 git init | para iniciar a linha do tempo | 1 | null
 git add | adiciona o arquivo à branch (?) | 2 | -
 git add . | adiciona todas as mudanças | 3 | null
