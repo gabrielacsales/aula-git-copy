@@ -1,33 +1,36 @@
 # GIT E GITHUB
-
+---
 Aprendendo através do guia prático
 
 # SCENES
 
-- [] Criação de pontos na história
-- [] Verificação de mudanças feitas
+- [X] Criação de pontos na história
+- [X] Verificação de mudanças feitas
 
 # PARALELS UNIVERSES
-- [] Iniciar nova funcionalidade (feature) sem perder o que foi feito
-- [] adicionar novas funcionalidades ao projeto
-- [] apagar a branch depois de já estar unida na master
+- [X] Iniciar nova funcionalidade (feature) sem perder o que foi feito
+- [X] adicionar novas funcionalidades ao projeto
+- [ ] apagar a branch depois de já estar unida na master
 
--[] colocar o projeto na nuvem
+- [X] colocar o projeto na nuvem
 
-git init - para iniciar a linha do tempo
-git add - adicionar o arquivo à branch (?)
-git add .
-git show - mostrar a última mudança feita
-git log - ver os pontos na história do projeto
-git status - mostra o desenvolvimento no git
-git commit - envia o arquivo para o repositório
-git checkout - para mudar para a branch
-git brach - lista as branchs
-git merge - unir universos
-git branch -D - deleta branch
+MINHAS NOTAS:
 
-git remote - definir qual o repositório remoto
-git push - empura o repositório local para o git
+Comando | o que faz | Quando usa
+*---* | *---* | *---*
+git init | para iniciar a linha do tempo | 1
+git add | adiciona o arquivo à branch (?) | 2
+git add . | adiciona todas as mudanças | 3
+git show | mostra a última mudança feita | 4
+git log | ver os pontos na história do projeto | 5
+git status | mostra o desenvolvimento no git | 6
+git commit | envia o arquivo para o repositório | 7
+git checkout | para mudar para a branch | 8
+git brach | lista as branchs | 9
+git merge | unir universos | 10
+git branch -D | deleta branch | 11
+git remote | definir qual o repositório remoto | 12
+git push | empura o repositório local para o git | 13
 
 Explicação do professor:
 - `git init` // inicia a linha do tempo
