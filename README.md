@@ -25,20 +25,21 @@ A coluna ` Quando usa ` ainda será editada
 
 Comando | o que faz | Quando usa | Complemento
 :---: | :---: | :---: | :---:
-git init | para iniciar a linha do tempo | 1 | null
-git add | adiciona o arquivo à branch (?) | 2 | -
-git add . | adiciona todas as mudanças | 3 | null
-git show | mostra a última mudança feita | 4 | -
-git log | ver os pontos na história do projeto | 5 | null
-git status | mostra o desenvolvimento no git | 6 | null
-git commit -m "()"| envia o arquivo para o repositório | 7 | label commit
-git checkout | para mudar para a branch | 8 | -
-git brach | lista as branchs | 9 | -
-git merge | unir universos | 10| -
-git branch -D | deleta branch | 11 | -
-git remote | definir qual o repositório remoto | 12 | -
-git push | empura o repositório local para o git | 13 | -
-git clone () | pega projeto do github | 14 | address  github
+git init | para iniciar a linha do tempo | primeiro comando | null
+git add | adiciona o arquivo à branch | depois de fazer alteração | ?
+git add . | adiciona todas as mudanças | atualizar tudo | null
+git show | mostra a última mudança feita | ? | ?
+git log | ver os pontos na história do projeto | ver a linha do tempo de mudanças | null
+git status | mostra o desenvolvimento no git | quando quer conferir os commits foram feitos | null
+git commit -m "()"| envia o arquivo para o repositório | <- | mensagem de commit
+git checkout | para mudar de branch | <- | nome da branch
+git branch | lista as branchs | ? | null
+git merge | unir universos | juntar branch à brach master | branch que quer unir
+git branch -D | deleta branch | depois de já ter unido à master | ?
+git remote | definir qual o repositório remoto | ? | ?
+git push | empura o repositório local para o github | já foi alterado no local e pode ir pro github | null
+git pull | puxa o repositório do github | precisa da versão do repositório do git na sua máquina | null
+git clone | pega projeto do github | clonar um projeto no git | link do repositório que quer clonar
 
 Explicação do professor:
 - `git init` // inicia a linha do tempo
