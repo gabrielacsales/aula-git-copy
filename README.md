@@ -19,9 +19,27 @@ Aprendendo através do guia prático
 
 - [X] Antes de enviar a resolução, precisa usar o mesmo repositório local
 
+- [X] Voltar um arquivo em determinada linha do tempo
+- [ ] recuperar algo deletado
+
+
+Explicação do professor:
+* `git init` // inicia a linha do tempo
+* `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo
+* `git commit` // adiciona um ponto na linha do tempo 
+* `git log` // visualiza os commits (pontos na linha do tempo)
+* `git status` // informa o estado das alterações no projeto
+* `git show` // apresenta determinado ponto na história
+* `git branch` // gerenciar novas linhas do tempo
+* `git checkout` // manipula as linhas do tempo, recupera
+* `git merge` // unir linhas do tempo
+* `git push` // envia alterações para repositório remoto
+* `git clone` // clonar um projeto / repositório
+* `git pull` // puxa do repositório remoto
+
 ### MY NOTES:
 
-A coluna ` Quando usa ` ainda será editada 
+A tabela está passando por mudanças
 
 Comando | o que faz | Quando usa | Complemento
 :---: | :---: | :---: | :---:
@@ -40,15 +58,3 @@ git remote | definir qual o repositório remoto | ? | ?
 git push | empura o repositório local para o github | já foi alterado no local e pode ir pro github | null
 git pull | puxa o repositório do github | precisa da versão do repositório do git na sua máquina | null
 git clone | pega projeto do github | clonar um projeto no git | link do repositório que quer clonar
-
-Explicação do professor:
-- `git init` // inicia a linha do tempo
-- `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo
-- `git commit` // adiciona um ponto na linha do tempo 
-- `git log` // visualiza os commits (pontos na linha do tempo)
-- `git status` // informa o estado das alterações no projeto
-- `git show` // apresenta determinado ponto na história
-- `git branch` // gerenciar novas linhas do tempo
-- `git checkout` // manipula as linhas do tempo
-- `git merge` // unir linhas do tempo
-- `git push` // envia alterações para repositório remoto
