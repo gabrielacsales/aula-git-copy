@@ -36,7 +36,7 @@ Explicação do professor:
 A tabela ainda está sofrendo modificações
 
 Comando | Sobre 
-:---: | :---: 
+:---: | :--- 
 git init | para iniciar a linha do tempo, é o primeiro comando 
 git add | adiciona o arquivo à branch, utiliza depois de fazer alteração, complemento: ?
 git add . | adiciona todas as mudanças feitas 
