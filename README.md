@@ -19,28 +19,6 @@ Aprendendo através do guia prático
 
 - [X] Antes de enviar a resolução, precisa usar o mesmo repositório local
 
-### MY NOTES:
-
-A coluna ` Quando usa ` ainda será editada 
-
-Comando | o que faz | Quando usa | Complemento
-:---: | :---: | :---: | :---:
-git init | para iniciar a linha do tempo | primeiro comando | null
-git add | adiciona o arquivo à branch | depois de fazer alteração | ?
-git add . | adiciona todas as mudanças | atualizar tudo | null
-git show | mostra a última mudança feita | ? | ?
-git log | ver os pontos na história do projeto | ver a linha do tempo de mudanças | null
-git status | mostra o desenvolvimento no git | quando quer conferir os commits foram feitos | null
-git commit -m "()"| envia o arquivo para o repositório | <- | mensagem de commit
-git checkout | para mudar de branch | <- | nome da branch
-git branch | lista as branchs | ? | null
-git merge | unir universos | juntar branch à brach master | branch que quer unir
-git branch -D | deleta branch | depois de já ter unido à master | ?
-git remote | definir qual o repositório remoto | ? | ?
-git push | empura o repositório local para o github | já foi alterado no local e pode ir pro github | null
-git pull | puxa o repositório do github | precisa da versão do repositório do git na sua máquina | null
-git clone | pega projeto do github | clonar um projeto no git | link do repositório que quer clonar
-
 Explicação do professor:
 - `git init` // inicia a linha do tempo
 - `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo
@@ -52,3 +30,25 @@ Explicação do professor:
 - `git checkout` // manipula as linhas do tempo
 - `git merge` // unir linhas do tempo
 - `git push` // envia alterações para repositório remoto
+
+### MY NOTES:
+
+A tabela ainda está sofrendo modificações
+
+Comando | Sobre 
+:---: | :---: 
+git init | para iniciar a linha do tempo, é o primeiro comando 
+git add | adiciona o arquivo à branch, utiliza depois de fazer alteração, complemento: ?
+git add . | adiciona todas as mudanças feitas 
+git show | mostra a última mudança feita, quando usa: ?, complemento: ?
+git log | ver os pontos na história do projeto, como uma linha do tempo das mudanças
+git status | mostra o desenvolvimento no git, util quando quer conferir se os commits foram feitos
+git commit -m ""| envia o arquivo para o repositório, dentro das aspas insira uma breve mensagem sobre o commit
+git checkout | para mudar de branch, utilizada quando quer trabalhar em uma branch diferente da atual, necessário inserir após o comando o nome da branch que deseja entrar
+git branch | lista as branchs, quando usar: ?, complemento: ?
+git merge | serve para unir universos, quando quer juntar uma branch à brach master, não esqueça de inserir o nome da branch que deseja unir
+git branch -D | deleta branch, gerlamente é utilizasa após já ter sido unida à master e não ter mais motivo para existir, complemento: ?
+git remote | definir qual o repositório remoto, utiliza-se quando quer definir qual será o repositório remoto, como o repositório no github por exemplo, complento: ?
+git push | empura o repositório local para o github, depois de alterar o repositório local (na sua máquina) e quiser mandar para o github
+git pull | puxa o repositório do github para sua máquina, case: quando já tiver o repositório na máquina e quiser atualizá-lo
+git clone | pega projeto do github e clona em sua máquina, após digitar o comando digite o link do repositório que deseja clonar
