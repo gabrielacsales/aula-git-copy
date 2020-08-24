@@ -7,7 +7,7 @@ Aprendendo através do guia prático
 - [X] Criação de pontos na história
 - [X] Verificação de mudanças feitas
 
-# PARALELS UNIVERSES (branchs)
+# PARALLELS UNIVERSES (branches)
 - [X] Iniciar nova funcionalidade (feature) sem perder o que foi feito
 - [X] adicionar novas funcionalidades ao projeto
 - [X] apagar a branch depois de já ter se unido à master
@@ -51,10 +51,10 @@ git log | ver os pontos na história do projeto | ver a linha do tempo de mudan�
 git status | mostra o desenvolvimento no git | quando quer conferir os commits foram feitos | null
 git commit -m "()"| envia o arquivo para o repositório | <- | mensagem de commit
 git checkout | para mudar de branch | <- | nome da branch
-git branch | lista as branchs | ? | null
+git branch | lista as branches | ? | null
 git merge | unir universos | juntar branch à brach master | branch que quer unir
 git branch -D | deleta branch | depois de já ter unido à master | ?
 git remote | definir qual o repositório remoto | ? | ?
-git push | empura o repositório local para o github | já foi alterado no local e pode ir pro github | null
+git push | empurra o repositório local para o github | já foi alterado no local e pode ir pro github | null
 git pull | puxa o repositório do github | precisa da versão do repositório do git na sua máquina | null
 git clone | pega projeto do github | clonar um projeto no git | link do repositório que quer clonar
